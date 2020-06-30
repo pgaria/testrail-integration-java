@@ -1,0 +1,12 @@
+.gradle/
+build/
+.idea/
+/gradle-user.properties
+/gradle-user.properties
+/*.iml
+logs/
+out/
+reports/
+target/
+/bin/
+logs
